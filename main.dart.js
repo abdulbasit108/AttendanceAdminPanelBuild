@@ -57998,7 +57998,7 @@ case 1:return A.I(q,r)
 case 2:return A.H(o,r)}})
 return A.J($async$yy,r)}}
 A.a6b.prototype={
-$1(a){return A.ac(["rollNo",a.a,"uuid",a.b,"isPresent",a.e],t.N,t.K)},
+$1(a){return A.ac(["rollNo",a.a,"uuid",a.b,"isPresent",a.e,"studentLat",a.c,"studentLong",a.d],t.N,t.K)},
 $S:534}
 A.a6c.prototype={
 $0(){var s,r,q,p,o=this,n=o.a,m=B.L.cQ(0,A.cD(A.cC(n.e).c.a.h(0,"charset")).aQ(0,n.w),null),l=J.a5(m,"studentsByBatch")
